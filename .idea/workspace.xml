@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="466ca0b4-52da-4aee-8c45-a036eac27995" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Practicas" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/Lib/site-packages/PyNaCl-1.5.0.dist-info/INSTALLER" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/Lib/site-packages/PyNaCl-1.5.0.dist-info/LICENSE" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/Lib/site-packages/PyNaCl-1.5.0.dist-info/METADATA" afterDir="false" />
@@ -2058,13 +2057,9 @@
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/Scripts/sqlformat.exe" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/Scripts/taskadmin" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Practicas/Practica_01/trujillo_samantha_32/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Reforzamientos" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion_03/Test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion_03/Test02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sesion_03/Test03.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practicas" beforeDir="false" afterPath="$PROJECT_DIR$/Practicas" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -2120,7 +2115,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.Test01">
+  <component name="RunManager">
     <configuration name="Test01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -2223,7 +2218,7 @@
       <workItem from="1725205433612" duration="197000" />
       <workItem from="1725205693585" duration="2597000" />
       <workItem from="1725209916648" duration="5005000" />
-      <workItem from="1725214997615" duration="360000" />
+      <workItem from="1725214997615" duration="1504000" />
     </task>
     <servers />
   </component>
@@ -2231,10 +2226,10 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Python$Test03.coverage" NAME="Test03 Coverage Results" MODIFIED="1724991405646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
     <SUITE FILE_PATH="coverage/Python$Ref2_02.coverage" NAME="Ref2-02 Coverage Results" MODIFIED="1724992714018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
-    <SUITE FILE_PATH="coverage/Python$Pregunta01.coverage" NAME="Pregunta01 Coverage Results" MODIFIED="1725203406123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Práctica 01" />
+    <SUITE FILE_PATH="coverage/Python$Test03.coverage" NAME="Test03 Coverage Results" MODIFIED="1725216164246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_03" />
     <SUITE FILE_PATH="coverage/Python$Ref2_05.coverage" NAME="Ref2-05 Coverage Results" MODIFIED="1724993309403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
+    <SUITE FILE_PATH="coverage/Python$Pregunta01.coverage" NAME="Pregunta01 Coverage Results" MODIFIED="1725203406123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Práctica 01" />
     <SUITE FILE_PATH="coverage/Python$Ref2_08.coverage" NAME="Ref2-08 Coverage Results" MODIFIED="1724994616252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
     <SUITE FILE_PATH="coverage/Python$Ref2_11.coverage" NAME="Ref2-11 Coverage Results" MODIFIED="1724996153125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
     <SUITE FILE_PATH="coverage/Python$Ref2_09.coverage" NAME="Ref2-09 Coverage Results" MODIFIED="1724995123579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion_02" />
