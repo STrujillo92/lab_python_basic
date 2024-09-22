@@ -1,5 +1,6 @@
 '''Decoradores en Python'''
 
+
 def funcionADecoradora(funcionB):
 
     def funcionC():
